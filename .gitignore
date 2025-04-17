@@ -4,6 +4,15 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
+.idea/
+.vscode/
+.DS_Store
+.ruby-version
+
+.idea/
+identifier.sqlite
+.gitattributes
+
 # Ignore bundler config.
 /.bundle
 
